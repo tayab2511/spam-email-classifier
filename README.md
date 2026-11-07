@@ -2,8 +2,8 @@
 
 A machine learning web app that reads the text of an email and predicts whether it is **Spam** or **Not Spam (legitimate)**.
 
-**Live app:** _add your Streamlit link here_
-**GitHub:** _add your repository link here_
+**Live app:** https://tayab-spam-classifier.streamlit.app
+**GitHub:** https://github.com/tayab2511/spam-email-classifier
 
 Input: email text → Process: NLP preprocessing + TF-IDF + ML model → Output: Spam / Not Spam
 
